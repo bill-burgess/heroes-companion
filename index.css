@@ -1,0 +1,17 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  background-color: #9c9d9e;
+}
+
+#appBar {
+  color: #eae5e5;
+  background-color: #111111;
+  margin-top: -6%;
+
+}
+
+#appBarTitle {
+  padding-left: 2%;
+  padding-top: 2%;
+}
